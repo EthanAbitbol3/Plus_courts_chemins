@@ -1,0 +1,14 @@
+5 % nombre de sommets
+7 % nombre d'arcs 
+sommet a
+sommet b
+sommet c
+sommet f
+sommet g
+arc (a,b,1,1) % sous la forme (u,v,t,lambda)
+arc (a,b,2,1)
+arc (a,c,2,1)
+arc (a,c,4,1)
+arc (b,f,5,1)
+arc (c,f,6,1)
+arc (c,g,7,1)
